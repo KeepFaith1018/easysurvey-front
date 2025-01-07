@@ -1,7 +1,5 @@
 <script setup lang="ts"></script>
-
 <template>
-	<RouterView />
+	<div>个人中心</div>
 </template>
-
 <style scoped></style>
